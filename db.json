@@ -4,7 +4,15 @@
       "id": 1,
       "title": "Nice Product",
       "rating": 5,
-      "description": "Lorem Ipsum"
+      "description": "Lorem Ipsum",
+      "productId":1
+    },
+    {
+      "id": 1,
+      "title": "Totally Bad",
+      "rating": 1,
+      "description": "Lorem Ipsum",
+      "productId":1
     }
   ]
 }
