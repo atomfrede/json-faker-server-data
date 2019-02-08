@@ -1,0 +1,10 @@
+{
+  "reviews": [
+    {
+      "id": 1,
+      "title": "Nice Product",
+      "rating": 5
+      "description": "Lorem Ipsum"
+    }
+  ]
+}
