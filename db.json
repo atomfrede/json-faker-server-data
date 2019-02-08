@@ -8,11 +8,18 @@
       "productId":1
     },
     {
-      "id": 1,
+      "id": 2,
       "title": "Totally Bad",
       "rating": 1,
       "description": "Lorem Ipsum",
       "productId":1
+    },
+        {
+      "id": 3,
+      "title": "Totally Bad",
+      "rating": 1,
+      "description": "Lorem Ipsum",
+      "productId":2
     }
   ]
 }
